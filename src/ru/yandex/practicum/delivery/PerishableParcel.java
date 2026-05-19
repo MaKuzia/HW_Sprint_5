@@ -1,3 +1,5 @@
+package ru.yandex.practicum.delivery;
+
 public class PerishableParcel extends Parcel{
     private int timeToLive;
 
